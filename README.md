@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C510%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.5 MB Used in GitHub's Storage 
+> 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 491 Contributions in the Year 2026
+> 🏆 489 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,7 +28,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1206 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+🌞 Morning                1207 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 🌆 Daytime                7949 commits        ███████████░░░░░░░░░░░░░░   45.36 % 
 🌃 Evening                7311 commits        ██████████░░░░░░░░░░░░░░░   41.72 % 
 🌙 Night                  1058 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
@@ -38,17 +38,17 @@
 **I Mostly Code in C#** 
 
 ```text
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Kotlin                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Kotlin                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+ShaderLab                5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 12/05/2026 17:20:42 UTC
+ Last Updated on 12/05/2026 18:16:41 UTC
 <!--END_SECTION:waka-->
 
 <br />
