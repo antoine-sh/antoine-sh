@@ -38,17 +38,17 @@
 **I Mostly Code in C#** 
 
 ```text
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Kotlin                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-ShaderLab                5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Kotlin                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+ShaderLab                5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 21/05/2026 11:41:29 UTC
+ Last Updated on 21/05/2026 13:42:53 UTC
 <!--END_SECTION:waka-->
 
 <br />
