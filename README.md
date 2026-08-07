@@ -9,7 +9,9 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146.85%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C479%20hrs%2030%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,6 +25,22 @@
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1643 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+🌆 Daytime                8645 commits        ███████████░░░░░░░░░░░░░░   45.79 % 
+🌃 Evening                7517 commits        ██████████░░░░░░░░░░░░░░░   39.81 % 
+🌙 Night                  1076 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -36,7 +54,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:30:10 UTC
+ Last Updated on 07/08/2026 05:09:53 UTC
 <!--END_SECTION:waka-->
 
 <br />
